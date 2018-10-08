@@ -14,6 +14,7 @@ namespace VPHelloWorld_150221002
     {
         public static void Main(string[] args)
         {
+            //test
             CreateWebHostBuilder(args).Build().Run();
         }
 
